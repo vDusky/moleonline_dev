@@ -1,0 +1,8 @@
+###################
+node_modules/
+build/
+debug.log
+.vscode/
+tmp/
+distNew/
+dist/
